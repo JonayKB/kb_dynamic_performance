@@ -6,7 +6,8 @@
   "refmap": "kb_dynamic_performance.refmap.json",
   "mixins": [
     "SpawnStateMixin",
-    "MobCountsMixin"
+    "MobCountsMixin",
+    "ServerPlayerListingMixin"
   ],
   "injectors": {
     "defaultRequire": 1
